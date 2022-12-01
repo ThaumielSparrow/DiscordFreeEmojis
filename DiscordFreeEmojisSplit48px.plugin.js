@@ -28,7 +28,7 @@
 @else @*/
 
 
-var FreeShit = (() => {
+var FreeEmojis = (() => {
 
     'use strict';
     
